@@ -14,8 +14,6 @@
 
 2. Lalu kita melakukan pengecekan versi dari virtual machinenya.
 
-![step5](g5.jpg)
-
 <h2> C. Run a background MySQL container</h2>
 
 1. Penggunaan perintah untuk menjalankan container Mysql di background.
