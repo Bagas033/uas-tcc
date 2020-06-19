@@ -58,5 +58,4 @@
 
 9. Lalu melakukan push ke repo dockerhub di akun saya.
 
-10. Dan berikut adalah hasil dari push ke repo dockerhub saya. 
 
