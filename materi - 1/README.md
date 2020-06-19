@@ -1,5 +1,7 @@
 # Materi 1 – Cloud Computing
 
+![hasil](https://github.com/Bagas033/uas-tcc/blob/master/materi%20-%201/1.png)
+
 Cloud computing adalah ketersediaan sumber daya sistem komputer sesuai permintaan , terutama penyimpanan data ( cloud storage ) dan daya komputasi , tanpa manajemen aktif langsung oleh pengguna. Istilah ini umumnya digunakan untuk menggambarkan pusat data yang tersedia bagi banyak pengguna melalui Internet . Awan besar, dominan saat ini, sering memiliki fungsi yang didistribusikan di beberapa lokasi dari server pusat . Jika koneksi ke pengguna relatif dekat, itu mungkin ditunjuk sebagai server tepi
 
 ## Karakteristik
@@ -25,3 +27,4 @@ Cloud computing adalah ketersediaan sumber daya sistem komputer sesuai permintaa
 ## Model layanan
 
 Meskipun arsitektur berorientasi layanan menganjurkan "Semuanya sebagai layanan" (dengan akronim EaaS atau XaaS , atau sekadar aas ), penyedia komputasi awan menawarkan "layanan" mereka sesuai dengan model yang berbeda, di mana tiga model standar per NIST adalah Infrastruktur sebagai Layanan (IaaS), Platform sebagai Layanan (PaaS), dan Perangkat Lunak sebagai Layanan (SaaS). Model-model ini menawarkan peningkatan abstraksi mereka dengan demikian sering digambarkan sebagai lapisan dalam tumpukan: infrastruktur, platform, dan perangkat lunak sebagai layanan, tetapi ini tidak harus terkait.
+
