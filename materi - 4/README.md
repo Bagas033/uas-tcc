@@ -18,11 +18,11 @@ Aplikasi SaaS sering diperbarui lebih sering daripada perangkat lunak tradisiona
 
     b. Aplikasi hanya memiliki konfigurasi tunggal, membuat pengujian pengembangan lebih cepat.
 
-    c. Vendor aplikasi tidak perlu mengeluarkan sumber daya untuk memperbarui dan memelihara versi perangkat lunak yang ketinggalan zaman, karena hanya ada satu versi. 
+    c. Vendor aplikasi tidak perlu mengeluarkan sumber daya untuk memperbarui dan memelihara versi perangkat lunak yang ketinggalan             zaman, karena hanya ada satu versi. 
 
     d. Vendor aplikasi memiliki akses ke semua data pelanggan, mempercepat desain dan pengujian regresi.
 
-    e. Penyedia solusi memiliki akses ke perilaku pengguna dalam aplikasi (biasanya melalui analisis web ), membuatnya lebih mudah untuk mengidentifikasi area yang layak untuk diperbaiki.
+    e. Penyedia solusi memiliki akses ke perilaku pengguna dalam aplikasi (biasanya melalui analisis web ), membuatnya lebih mudah untuk        mengidentifikasi area yang layak untuk diperbaiki.
 
 - Buka protokol integrasi 
 Karena aplikasi SaaS tidak dapat mengakses sistem internal perusahaan (database atau layanan internal), mereka sebagian besar menawarkan protokol integrasi dan antarmuka pemrograman aplikasi (API) yang beroperasi melalui jaringan area luas . Biasanya, ini adalah protokol berdasarkan HTTP , REST , dan SOAP .
